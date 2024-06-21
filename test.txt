@@ -7,3 +7,4 @@ creating for rebase in master
 creating for rebase
 again testing rebase command using git pull -r this line edited in feature branh
 doing again rebase
+this is not first rebase
